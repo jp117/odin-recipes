@@ -1,5 +1,8 @@
 # odin-recipes
 
+## View the website
+[Basic Odin Recipe](https://jp117.github.io/odin-recipes/)
+
 ## Skills demonstrated
 1. File Structure
 2. Git usage
